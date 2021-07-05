@@ -1,0 +1,2 @@
+rootProject.name = "GetAllVideoFromStorage"
+include ':app'
